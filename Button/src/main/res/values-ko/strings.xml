@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="but2">911 응급전화 걸기</string>
+    <string name="but1">네이트 홈페이지 열기</string>
+    <string name="but3">갤러리 열기</string>
+    <string name="but4">끝내기</string>
+    <string name="action_settings">설정</string>
+</resources>

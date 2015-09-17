@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="but1">open NATE homepage</string>
+    <string name="but2">call to 911</string>
+    <string name="but3">open gallery</string>
+    <string name="but4">finish</string>
+</resources>
